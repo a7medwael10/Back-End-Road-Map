@@ -73,7 +73,6 @@ Topics are ordered and organized according to the vision of the planner, this or
                 </ul>
             </td>
         </tr>
-        
     </tbody>
 </table>
 
