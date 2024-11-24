@@ -47,6 +47,8 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu">Css Arabic</a></li>
                 </ul>
             </td>
+            <td>   
+            </td>
         </tr>
         <tr>
             <th>Step 2</th>
@@ -71,6 +73,8 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://www.youtube.com/watch?v=WWazrq7ZC8E">SQL vs NoSQL Databases</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLCy5RQkQgvf4yaL-AMDO8rpAAi90sWfGl">Networking for Web Developers [English]</a></li>
                 </ul>
+            </td>
+             <td>   
             </td>
         </tr>
     </tbody>
