@@ -150,6 +150,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PL7mt2FDjAkPdEgExp0ZNMIiW8vHI8FEK1">OOp In PHP - AR</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-">PHP The Right Way (Recommended)</a></li>
+                    <li><a href="https://www.phptutorial.net/php-oop/">OOP Tutorial</a></li>
                 </ul>
             </td>
             <td>
