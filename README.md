@@ -161,6 +161,29 @@ Topics are ordered and organized according to the vision of the planner, this or
             <td>
             </td>
         </tr>
+        <tr>
+            <th>Step 4</th>
+            <td>
+                <ul>
+                    <li>ERD</li>
+                    <li>Database Design</li>
+                </ul>                
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=CZ46r29kyQw&list=PL37D52B7714788190&index=39">Entity Relationship Diagram - Full Lecture</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=ztHopE5Wnpc">Learn how to design and plan a database for beginners</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>1 : 24</li>
+                    <li>36 : 54</li>
+                </ul>
+            </td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
 
