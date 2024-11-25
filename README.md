@@ -206,6 +206,30 @@ Topics are ordered and organized according to the vision of the planner, this or
             <td>
             </td>
         </tr>
+         <tr>
+            <th>Step 6</th>
+            <td>
+                <ul>
+                    <li>Intermediate PHP</li>
+                    <li>First Project</li>
+                </ul>                
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-">PHP The Right Way</a></li>
+                    <li><a href="https://www.phptutorial.net/php-pdo/">PDO Tutorial</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=DOsuFRnBqLU">Project: Create MySql Notes App</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>55 : 67</li>
+                    <li>1 : 37</li>
+                </ul>
+            </td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
 
