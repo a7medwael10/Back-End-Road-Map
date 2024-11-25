@@ -235,6 +235,111 @@ Topics are ordered and organized according to the vision of the planner, this or
 
 ### Level 2
 
-#### Plan
-// level2 tables
+#### Advanced PHP
+
+<table>
+    <thead>
+        <tr>
+            <th>Phase</th>
+            <th>Content</th>
+            <th>Resources</th>
+            <th>From : To</th>
+            <th>TimeLine</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Step 1</th>
+            <td>
+                <ul>
+                    <li>MVC</li>
+                </ul>                
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1">Build PHP MVC Framework</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>1 : 9</li>
+                </ul>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th>Step 2</th>
+            <td>
+                <ul>
+                    <li>API</li>
+                </ul>                
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=GZvSYJDk-us">APIs for Beginners</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=VywxIQ2ZXw4">API Testing with Postman</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo">PHP REST API From Scratch</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li> Full Content</li>
+                </ul>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th>Step 3</th>
+            <td>
+                <ul>
+                    <li>Design Pattern</li>
+                </ul>                
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL">SOLID Principles</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ">intro Design Patterns</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=EKIl-kEMH6g&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC&index=7"></a>Factory Design Pattern</li>
+                    <li><a href="https://www.youtube.com/watch?v=iUqZXACLTCo&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC&index=11"></a> Singleton Design Pattern</li>
+                    <li><a href="https://www.youtube.com/watch?v=LP0PZ7WPJPo&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC&index=12"></a>Adapter Design Pattern</li>
+                    <li><a href="https://www.youtube.com/watch?v=YPME7VEZ6XE&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC&index=14"></a>Facade Design Pattern</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>1 : 19</li>
+                    <li>1 : 3</li>
+                    <li>- :  -</li>
+                    <li>- :  -</li>
+                    <li>- :  -</li>
+                    <li>- :  -</li>
+                </ul>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th>Step 4</th>
+            <td>
+                <ul>
+                    <li>Be a PHP Master</li>
+                </ul>                
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-">PHP The Right Way</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>68 : 138</li>
+                </ul>
+            </td>
+            <td>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
