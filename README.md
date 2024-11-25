@@ -154,8 +154,8 @@ Topics are ordered and organized according to the vision of the planner, this or
             </td>
             <td>
                 <ul>
-                    <li>- : -</li>
-                    <li>0:00:00 : 2:53:18</li>
+                    <li>1 : 24</li>
+                    <li>36 : 54</li>
                 </ul>
             </td>
             <td>
@@ -177,8 +177,8 @@ Topics are ordered and organized according to the vision of the planner, this or
             </td>
             <td>
                 <ul>
-                    <li>1 : 24</li>
-                    <li>36 : 54</li>
+                    <li>- : -</li>
+                    <li>0:00:00 : 2:53:18</li>
                 </ul>
             </td>
             <td>
