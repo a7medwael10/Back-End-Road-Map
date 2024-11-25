@@ -273,6 +273,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                 </ul>
             </td>
             <td>
+                April 1, 2025 → April 10, 2025
             </td>
         </tr>
         <tr>
@@ -295,6 +296,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                 </ul>
             </td>
             <td>
+                April 11, 2025 → April 17, 2025
             </td>
         </tr>
         <tr>
@@ -325,6 +327,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                 </ul>
             </td>
             <td>
+                April 18, 2025 → April 27 , 2025
             </td>
         </tr>
         <tr>
@@ -345,6 +348,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                 </ul>
             </td>
             <td>
+                April 28, 2025 → May 15, 2025
             </td>
         </tr>
     </tbody>
