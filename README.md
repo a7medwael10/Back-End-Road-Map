@@ -12,7 +12,7 @@ Topics are ordered and organized according to the vision of the planner, this or
 
 ### Level 0
 
-#### Entry Level “Basic ”
+#### Entry Level “Basic”
 
 <table>
     <thead>
