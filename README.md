@@ -224,7 +224,6 @@ Topics are ordered and organized according to the vision of the planner, this or
             <td>
                 <ul>
                     <li>55 : 67</li>
-                    <li>1 : 37</li>
                 </ul>
             </td>
             <td>
