@@ -184,6 +184,28 @@ Topics are ordered and organized according to the vision of the planner, this or
             <td>
             </td>
         </tr>
+        <tr>
+            <th>Step 5</th>
+            <td>
+                <ul>
+                    <li>MySQL</li>
+                </ul>                
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpMGXTKXsBM_ZNpJwowfsP49">MySql (giraffe academy) EN</a></li>
+                    <li><a href="https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2">MySql - AR</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>1 : 24</li>
+                    <li>1 : 37</li>
+                </ul>
+            </td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
 
