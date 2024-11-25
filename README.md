@@ -301,10 +301,10 @@ Topics are ordered and organized according to the vision of the planner, this or
                 <ul>
                     <li><a href="https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL">SOLID Principles</a></li>
                     <li><a href="https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ">intro Design Patterns</a></li>
-                    <li><a href="https://www.youtube.com/watch?v=EKIl-kEMH6g&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC&index=7"></a>Factory Design Pattern</li>
-                    <li><a href="https://www.youtube.com/watch?v=iUqZXACLTCo&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC&index=11"></a> Singleton Design Pattern</li>
-                    <li><a href="https://www.youtube.com/watch?v=LP0PZ7WPJPo&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC&index=12"></a>Adapter Design Pattern</li>
-                    <li><a href="https://www.youtube.com/watch?v=YPME7VEZ6XE&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC&index=14"></a>Facade Design Pattern</li>
+                    <li><a href="https://www.youtube.com/watch?v=EKIl-kEMH6g%26list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC%26index=7"></a>Factory Design Pattern</li>
+                    <li><a href="https://www.youtube.com/watch?v=iUqZXACLTCo%26list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC%26index=11"></a> Singleton Design Pattern</li>
+                    <li><a href="https://www.youtube.com/watch?v=LP0PZ7WPJPo%26list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC%26index=12"></a>Adapter Design Pattern</li>
+                    <li><a href="https://www.youtube.com/watch?v=YPME7VEZ6XE%26list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC%26index=14"></a>Facade Design Pattern</li>
                 </ul>
             </td>
             <td>
