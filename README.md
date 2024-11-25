@@ -75,7 +75,8 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://www.youtube.com/playlist?list=PLCy5RQkQgvf4yaL-AMDO8rpAAi90sWfGl">Networking for Web Developers [English]</a></li>
                 </ul>
             </td>
-             <td>   
+             <td> 
+                 February 6, 2024 → February 15, 2025
             </td>
         </tr>       
     </tbody>
@@ -113,6 +114,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li>1 : 33</li>
                 </ul>
             </td>
+                    February 16, 2024 → February 23, 2025
             <td>
             </td>
         </tr>
@@ -137,6 +139,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                 </ul>
             </td>
             <td>
+                    February 24, 2024 → March 2, 2025
             </td>
         </tr>
         <tr>
@@ -160,6 +163,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                 </ul>
             </td>
             <td>
+                March 3, 2025 → March 9, 2025
             </td>
         </tr>
         <tr>
@@ -183,6 +187,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                 </ul>
             </td>
             <td>
+                March 10, 2025 → March 16, 2025
             </td>
         </tr>
         <tr>
@@ -204,6 +209,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li>1 : 37</li>
                 </ul>
             </td>
+                March 17, 2025 → March 23, 2025
             <td>
             </td>
         </tr>
@@ -228,6 +234,7 @@ Topics are ordered and organized according to the vision of the planner, this or
                 </ul>
             </td>
             <td>
+                March 24, 2025 → March 30, 2025
             </td>
         </tr>
     </tbody>
