@@ -47,7 +47,8 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li><a href="https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu">Css Arabic</a></li>
                 </ul>
             </td>
-            <td>   
+            <td> 
+                January 30, 2024 → February 5, 2025
             </td>
         </tr>
         <tr>
