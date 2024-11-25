@@ -114,8 +114,8 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li>1 : 33</li>
                 </ul>
             </td>
-                    February 16, 2024 → February 23, 2025
             <td>
+                February 16, 2024 → February 23, 2025
             </td>
         </tr>
         <tr>
@@ -209,8 +209,8 @@ Topics are ordered and organized according to the vision of the planner, this or
                     <li>1 : 37</li>
                 </ul>
             </td>
-                March 17, 2025 → March 23, 2025
             <td>
+                March 17, 2025 → March 23, 2025
             </td>
         </tr>
          <tr>
